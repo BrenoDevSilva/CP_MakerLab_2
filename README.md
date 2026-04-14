@@ -58,39 +58,40 @@ As medições abaixo foram realizadas com o auxílio de um **paquímetro**, gara
 
 ---
 
-## 🛠️ Guia de Montagem (Manual do Usuário)
+## 🛠️ Guia de Montagem (Passo-a-Passo)
+
+Abaixo, apresentamos o processo de montagem documentado em ordem cronológica. As imagens estão organizadas em uma grade compacta e referenciam os arquivos presentes na pasta `/imagens`.
 
 <table border="0">
-<tr>
-<td><img src="img9.jpg" width="400"></td>
-<td><img src="img8.jpg" width="400"></td>
-</tr>
-<tr>
-<td><img src="img7.jpg" width="400"></td>
-<td><img src="img6.jpg" width="400"></td>
-</tr>
-<tr>
-<td><img src="img5.jpg" width="400"></td>
-<td><img src="img4.jpg" width="400"></td>
-</tr>
-<tr>
-<td><img src="img3.jpg" width="400"></td>
-<td><img src="img2.jpg" width="400"></td>
-</tr>
-<tr>
-<td><img src="img1.jpg" width="400"></td>
-<td></td>
-</tr>
+ <tr>
+    <td><img src="imagens/img9.jpg" width="400"></td>
+    <td><img src="imagens/img8.jpg" width="400"></td>
+ </tr>
+ <tr>
+    <td><img src="imagens/img7.jpg" width="400"></td>
+    <td><img src="imagens/img6.jpg" width="400"></td>
+ </tr>
+ <tr>
+    <td><img src="imagens/img5.jpg" width="400"></td>
+    <td><img src="imagens/img4.jpg" width="400"></td>
+ </tr>
+ <tr>
+    <td><img src="imagens/img3.jpg" width="400"></td>
+    <td><img src="imagens/img2.jpg" width="400"></td>
+ </tr>
+ <tr>
+    <td><img src="imagens/img1.jpg" width="400"></td>
+    <td></td>
+ </tr>
 </table>
+
 ---
 
 ## 💻 Modelagem 3D
-Para a etapa de design digital, foi selecionada a peça **[NOME DA PEÇA ESCOLHIDA]**.
+Para a etapa de design digital, foi selecionada a peça **tampa**.
 
-* **Software:** [Ex: OpenSCAD / Fusion 360]
-* **Arquivo:** O arquivo fonte pode ser encontrado na pasta `/modelagem` deste repositório.
-
-![Preview 3D](https://via.placeholder.com/600x400?text=Print+da+sua+Modelagem+3D)
+* **Software:** [OpenSCAD]
+* **Arquivo:** O arquivo fonte pode ser encontrado como `CP2Novo.scad`, neste repositório.
 
 ---
 
