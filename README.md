@@ -60,24 +60,28 @@ As medições abaixo foram realizadas com o auxílio de um **paquímetro**, gara
 
 ## 🛠️ Guia de Montagem (Manual do Usuário)
 
-![Passo 1](img1.jpg)
-
-![Passo 2](img2.jpg)
-
-![Passo 3](img3.jpg)
-
-![Passo 4](img4.jpg)
-
-![Passo 5](img5.jpg)
-
-![Passo 6](img6.jpg)
-
-![Passo 7](img7.jpg)
-
-![Passo 8](img8.jpg)
-
-![Passo 9](img9.jpg)
-
+<table border="0">
+<tr>
+<td><img src="img9.jpg" width="400"></td>
+<td><img src="img8.jpg" width="400"></td>
+</tr>
+<tr>
+<td><img src="img7.jpg" width="400"></td>
+<td><img src="img6.jpg" width="400"></td>
+</tr>
+<tr>
+<td><img src="img5.jpg" width="400"></td>
+<td><img src="img4.jpg" width="400"></td>
+</tr>
+<tr>
+<td><img src="img3.jpg" width="400"></td>
+<td><img src="img2.jpg" width="400"></td>
+</tr>
+<tr>
+<td><img src="img1.jpg" width="400"></td>
+<td></td>
+</tr>
+</table>
 ---
 
 ## 💻 Modelagem 3D
