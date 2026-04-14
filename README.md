@@ -60,23 +60,23 @@ As medições abaixo foram realizadas com o auxílio de um **paquímetro**, gara
 
 ## 🛠️ Guia de Montagem (Manual do Usuário)
 
-Este guia foi elaborado para que qualquer pessoa, mesmo sem conhecimento prévio em mecânica, consiga montar o sistema.
+![Passo 1](img1.jpg)
 
-### Passo 1: Preparação da Base
-Inicie unindo as duas partes da **Caixa Inferior**. Elas devem formar a estrutura onde os eixos serão apoiados.
-> *[INSIRA AQUI A FOTO 01]*
+![Passo 2](img2.jpg)
 
-### Passo 2: Instalação dos Eixos
-Posicione os dois **Eixos** nos encaixes internos da base. Verifique se eles giram livremente antes de adicionar as engrenagens.
-> *[INSIRA AQUI A FOTO 02]*
+![Passo 3](img3.jpg)
 
-### Passo 3: Sistema de Engrenagens
-Acople as **10 Engrenagens** nos eixos e nos pinos internos. Elas devem estar próximas o suficiente para que os dentes se toquem (engrenamento), permitindo que o movimento de uma passe para as outras.
-> *[INSIRA AQUI A FOTO 03]*
+![Passo 4](img4.jpg)
 
-### Passo 4: Componentes Móveis e Fechamento
-Adicione os **5 Componentes Móveis** nos locais indicados e finalize colocando a **Tampa** superior para travar o conjunto.
-> *[INSIRA AQUI A FOTO 04]*
+![Passo 5](img5.jpg)
+
+![Passo 6](img6.jpg)
+
+![Passo 7](img7.jpg)
+
+![Passo 8](img8.jpg)
+
+![Passo 9](img9.jpg)
 
 ---
 
