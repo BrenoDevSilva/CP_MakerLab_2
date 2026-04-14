@@ -29,14 +29,32 @@ Antes de iniciar a montagem, certifique-se de que todas as peças estão present
 ---
 
 ## 📏 Relatório de Metrologia
-As medições abaixo foram realizadas utilizando um **paquímetro**, garantindo a precisão necessária para o entendimento das tolerâncias do conjunto.
 
-| Peça | Dimensão Medida | Valor (mm) |
+As medições abaixo foram realizadas com o auxílio de um **paquímetro**, garantindo a precisão técnica necessária para a análise do conjunto mecânico e futura modelagem 3D.
+
+| Peça | Atributo | Medida (mm) |
 | :--- | :--- | :--- |
-| **Engrenagem Principal** | Diâmetro Externo | 00.0 mm |
-| **Eixo** | Comprimento Total | 00.0 mm |
-| **Encaixe da Base** | Largura Interna | 00.0 mm |
-| **Componente Móvel** | Espessura | 0.0 mm |
+| **Tampa** | Diâmetro | 100 mm |
+| | Altura | 0,05 mm |
+| **Caixa** | Diâmetro | 100 mm |
+| | Altura | 0,05 mm |
+| | Centro → 1ª Fileira | 2,005 mm |
+| | 1ª Fileira → 2ª Fileira | 4,003 mm |
+| **Eixo** | Diâmetro | 3,006 mm |
+| | Altura | 4,005 mm |
+| | Grossura | 0,5 mm |
+| **Engrenagem com Encaixe** | Diâmetro | 2,0 mm |
+| | Altura | 1,003 mm |
+| | Grossura | 0,5 mm |
+| **Engrenagem Comum** | Diâmetro | 2,0 mm |
+| | Grossura | 0,5 mm |
+| **Flor Topo** | Diâmetro | 4,008 mm |
+| | Grossura | 1,0 mm |
+| **Conjunto (Total)** | Largura | 3,8 mm |
+| | Comprimento | 4,5 mm |
+| | Grossura | 2,004 mm |
+
+> *Nota: Os valores acima refletem as dimensões coletadas pelo grupo, fundamentais para garantir o engrenamento correto do sistema.*
 
 ---
 
